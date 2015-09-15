@@ -72,7 +72,7 @@ namespace StopNShop_1.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        public ActionResult Register(RegisterModel model)
+        public ActionResult Register(RegisterUser model)
         {
             if (ModelState.IsValid)
             {
