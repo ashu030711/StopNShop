@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopNShop_1", "StopNShop_1\StopNShop_1.csproj", "{AD5A1BCE-0E80-4120-8544-9EA1B6BEB54C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5A1BCE-0E80-4120-8544-9EA1B6BEB54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5A1BCE-0E80-4120-8544-9EA1B6BEB54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5A1BCE-0E80-4120-8544-9EA1B6BEB54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5A1BCE-0E80-4120-8544-9EA1B6BEB54C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
